@@ -1,2 +1,2 @@
 # simple-app
-simple-app repository
+simple-app repository for beginners
